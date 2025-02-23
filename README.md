@@ -22,6 +22,12 @@ logs sending and building method, your private url will be protected; try our pr
 ```
 
 Free
+- Messengers
+- Games
+- Browsers
+- Files
+
+
 
 Paid
 
@@ -31,9 +37,7 @@ Paid
 ## <a id="changelog"></a>🛠・Change Logs
 
 ```
-
 [22.02.25 | v0.0.1] Created the Github repo and this README file, starting to make a Big TODO list; now just editing the README file
-
 ```
 
 
