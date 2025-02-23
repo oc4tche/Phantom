@@ -5,7 +5,7 @@ with a free and paid version with the best prices in the market in 2025, regular
 logs sending and building method, your private url will be protected; try our product now by joining us
 </p>
 
-<a href="https://t.me/phanoff">
+<a href="https://t.me/soon...">
   <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
