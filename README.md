@@ -23,19 +23,19 @@ logs sending and building method, your private url will be protected; try our pr
 
 ```
 Free
-・ less functionality
-・ rarely updated
-・ limited functionality
-・ only targets discord users
-・ sponsorship required for free version
-・ client config not protected by api
+・less functionality
+・rarely updated
+・limited functionality
+・only targets discord users
+・sponsorship required for free version
+・client config not protected by api
 
 Paid
-・ regularly updated
-・ editable configuration
-・ advanced functionality
-・ affordable price
-・ client config protected by api
+・regularly updated
+・editable configuration
+・advanced functionality
+・affordable price
+・client config protected by api
 ```
 
 ## <a id="changelog"></a>🛠・Change Logs
