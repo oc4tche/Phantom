@@ -1,8 +1,8 @@
 # Phantom Stealer
 <p>
-Phantom is a inforamtion stealer targeting windows operating systems only; with advanced features and build options;
-with a free and paid version with the best prices in the market in 2025, regulary updated and stay fud with a telegram and discord 
-logs sending and building method, your private url will be protected; try our product now by joining us
+Phantom is a inforamtion stealer targeting windows operating systems only with advanced features, build options
+and a free/paid version proposing the best prices in the market in 2025, regulary updated and fud with a telegram and discord 
+logs sending and building method, your private config will be protected by our api try our product now by joining us.
 </p>
 
 <a href="https://t.me/soon...">
@@ -36,6 +36,65 @@ Paid
 ・advanced functionality
 ・affordable price
 ・client config protected by api
+
+Data
+  - Messengers
+  - Games
+  - Mails
+  - Vpn's
+  - Buissnesses Files
+
+Browsers
+  - Chromium(Cookies, Passwords, Cards, Historys, Autofills, Downloads, Bookmarks)
+    - Chrome
+    - Edge
+    - Brave
+    - OperaGX
+    - Opera
+    - Yandex
+  - Gecko(Cookies, Passwords, Historys, Autofills, Downloads, Bookmarks)
+    - FireFox
+  - Extensions
+    - Auth
+    - Password Managers
+    - Wallets
+
+Cookie Sessions
+  - Stake
+  - Roblox
+  - Twitch
+  - Twitter
+  - Tik Tok
+  - Spotify
+  - Facebook
+  - Reddit
+  - Instagram
+
+Computer Informations
+  - Installed Applications
+  - Wifi
+  - Clipboard
+  - All Disks Tree
+
+Cryptocurrency
+  - Desktop Wallets (binance, exodus, atomic, ...)
+  - Crypto Clipper (btc, ltc, sol, xlm, xmr, doge, dash, neo)
+
+Injections
+  - MullvadVPN ()
+  - MailSpring ()
+  - Discord ()
+  - Wallets (Atomic, Exodus)
+
+Other
+  - Sensitive Files
+  - Binder
+  - TaskKill
+
+FileOptions
+  - File (name, icon, description, version)
+  - Build Option (pkg, electron, msi, nsis, compressionType)
+  - Startup (Persistance, Registry, AppData, ProcessInjection)
 ```
 
 ## <a id="changelog"></a>🛠・Change Logs
