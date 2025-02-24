@@ -22,7 +22,7 @@ logs sending and building method, your private url will be protected; try our pr
 ## <a id="features"></a>✨・Features
 
 ```diff
-Free
+> Free
 ・ less functionality
 ・ rarely updated
 ・ limited functionality
@@ -30,7 +30,7 @@ Free
 ・ sponsorship required for free version
 ・ client config not protected by api
 
-Paid
+- Paid
 ・ regularly updated
 ・ editable configuration
 ・ advanced functionality
