@@ -12,10 +12,6 @@ logs sending and building method, your private url will be protected; try our pr
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-
-
-
-
 ## 🌐・Summary   
   
 - [✨・Features](#features) 
@@ -25,21 +21,21 @@ logs sending and building method, your private url will be protected; try our pr
 
 ## <a id="features"></a>✨・Features
 
-```
+```diff
 Free
-- less functionality
-- rarely updated
-- limited functionality
-- only targets discord users
-- sponsorship required for free version
-- client config not protected by api
+・ less functionality
+・ rarely updated
+・ limited functionality
+・ only targets discord users
+・ sponsorship required for free version
+・ client config not protected by api
 
 Paid
-- regularly updated
-- editable configuration
-- advanced functionality
-- affordable price
-- client config protected by api
+・ regularly updated
+・ editable configuration
+・ advanced functionality
+・ affordable price
+・ client config protected by api
 ```
 
 ## <a id="changelog"></a>🛠・Change Logs
