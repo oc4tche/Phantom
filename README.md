@@ -9,7 +9,6 @@ logs sending and building method, your private url will be protected; try our pr
   <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-
 ## 🌐・Summary   
   
 - [✨・Features](#features) 
@@ -20,19 +19,20 @@ logs sending and building method, your private url will be protected; try our pr
 ## <a id="features"></a>✨・Features
 
 ```
-
 Free
-- Messengers
-- Games
-- Browsers
-- Files
-
-
+- less functionality
+- rarely updated
+- limited functionality
+- only targets discord users
+- client config not protected by api
 
 Paid
-
+- regularly updated
+- editable configuration
+- advanced functionality
+- affordable price
+- client config protected by api
 ```
-
 
 ## <a id="changelog"></a>🛠・Change Logs
 
@@ -40,14 +40,14 @@ Paid
 [22.02.25 | v0.0.1] Created the Github repo and this README file, starting to make a Big TODO list; now just editing the README file
 ```
 
-
-
 ## <a id="terms"></a>💼・Terms
+
 This script is for educational purposes only. Use it at your own risk. The developer is not responsible for any damage caused by the misuse of this script.
 
 
 ## <a id="authors"></a>👤・Authors
-...
+
+- GeorgeRussvel
 
 
 <p align="center">
