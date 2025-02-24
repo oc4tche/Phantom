@@ -8,8 +8,6 @@ logs sending and building method, your private url will be protected; try our pr
 <a href="https://t.me/soon...">
   <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-
-
 <a href="https://discord.gg/soon...">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
