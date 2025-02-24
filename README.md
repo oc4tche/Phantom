@@ -57,7 +57,7 @@ This script is for educational purposes only. Use it at your own risk. The devel
 
 ## <a id="authors"></a>👤・Authors
 
-- GeorgeRussvel
+- oc4tche (George Russvel)
 
 
 <p align="center">
