@@ -9,6 +9,15 @@ logs sending and building method, your private url will be protected; try our pr
   <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
+
+<a href="https://discord.gg/soon...">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+
+
+
+
 ## 🌐・Summary   
   
 - [✨・Features](#features) 
@@ -24,6 +33,7 @@ Free
 - rarely updated
 - limited functionality
 - only targets discord users
+- sponsorship required for free version
 - client config not protected by api
 
 Paid
