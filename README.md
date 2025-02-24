@@ -39,9 +39,30 @@ Paid
 
 Data
   - Messengers
+    - Telegram
+    - Skype
+    - Element
+    - Tox
+    - Whatsapp
+    - Viber
+    - Discord
+
   - Games
+    - Steam
+    - Epic
+    - Rockstar
+    - ElectronicArts
+    - GOG.com
+    -
+
   - Mails
+    - ThunderBird
+
   - Vpn's
+    - Proton
+    - OpenVPN
+    - SurfShark
+
   - Buissnesses Files
 
 Browsers
@@ -52,23 +73,25 @@ Browsers
     - OperaGX
     - Opera
     - Yandex
+
   - Gecko(Cookies, Passwords, Historys, Autofills, Downloads, Bookmarks)
     - FireFox
+
   - Extensions
     - Auth
     - Password Managers
     - Wallets
 
-Cookie Sessions
-  - Stake
-  - Roblox
-  - Twitch
-  - Twitter
-  - Tik Tok
-  - Spotify
-  - Facebook
-  - Reddit
-  - Instagram
+  - Cookies Sessions
+    - Stake
+    - Roblox
+    - Twitch
+    - Twitter
+    - Tik Tok
+    - Spotify
+    - Facebook
+    - Reddit
+    - Instagram
 
 Computer Informations
   - Installed Applications
