@@ -1,4 +1,4 @@
-# Phantom Stealer - vBeta
+# Phantom Stealer
 <p>
 Phantom is a inforamtion stealer targeting windows operating systems only; with advanced features and build options;
 with a free and paid version with the best prices in the market in 2025, regulary updated and stay fud with a telegram and discord 
