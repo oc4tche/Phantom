@@ -99,6 +99,8 @@ Computer Informations
 - Wifi
 - Clipboard
 - All Disks Tree
+- System
+- Network
 
 Cryptocurrency
 - Desktop Wallets (binance, exodus, atomic, ...)
