@@ -38,86 +38,86 @@ Paid
 ・client config protected by api
 
 Data
-  - Messengers
-    - Telegram
-    - Skype
-    - Element
-    - Tox
-    - Whatsapp
-    - Viber
-    - Discord
+- Messengers
+  - Telegram
+  - Skype
+  - Element
+  - Tox
+  - Whatsapp
+  - Viber
+  - Discord
 
-  - Games
-    - Steam
-    - Epic
-    - Rockstar
-    - ElectronicArts
-    - GOG.com
-    -
+- Games
+  - Steam
+  - Epic
+  - Rockstar
+  - ElectronicArts
+  - GOG.com
+  -
 
-  - Mails
-    - ThunderBird
+- Mails
+  - ThunderBird
 
-  - Vpn's
-    - Proton
-    - OpenVPN
-    - SurfShark
+- Vpn's
+  - Proton
+  - OpenVPN
+  - SurfShark
 
-  - Buissnesses Files
+- Buissnesses Files
 
 Browsers
-  - Chromium(Cookies, Passwords, Cards, Historys, Autofills, Downloads, Bookmarks)
-    - Chrome
-    - Edge
-    - Brave
-    - OperaGX
-    - Opera
-    - Yandex
+- Chromium(Cookies, Passwords, Cards, Historys, Autofills, Downloads, Bookmarks)
+  - Chrome
+  - Edge
+  - Brave
+  - OperaGX
+  - Opera
+  - Yandex
 
-  - Gecko(Cookies, Passwords, Historys, Autofills, Downloads, Bookmarks)
-    - FireFox
+- Gecko(Cookies, Passwords, Historys, Autofills, Downloads, Bookmarks)
+  - FireFox
 
-  - Extensions
-    - Auth
-    - Password Managers
-    - Wallets
+- Extensions
+  - Auth
+  - Password Managers
+  - Wallets
 
-  - Cookies Sessions
-    - Stake
-    - Roblox
-    - Twitch
-    - Twitter
-    - Tik Tok
-    - Spotify
-    - Facebook
-    - Reddit
-    - Instagram
+- Cookies Sessions
+  - Stake
+  - Roblox
+  - Twitch
+  - Twitter
+  - Tik Tok
+  - Spotify
+  - Facebook
+  - Reddit
+  - Instagram
 
 Computer Informations
-  - Installed Applications
-  - Wifi
-  - Clipboard
-  - All Disks Tree
+- Installed Applications
+- Wifi
+- Clipboard
+- All Disks Tree
 
 Cryptocurrency
-  - Desktop Wallets (binance, exodus, atomic, ...)
-  - Crypto Clipper (btc, ltc, sol, xlm, xmr, doge, dash, neo)
+- Desktop Wallets (binance, exodus, atomic, ...)
+- Crypto Clipper (btc, ltc, sol, xlm, xmr, doge, dash, neo)
 
 Injections
-  - MullvadVPN ()
-  - MailSpring ()
-  - Discord ()
-  - Wallets (Atomic, Exodus)
+- MullvadVPN ()
+- MailSpring ()
+- Discord ()
+- Wallets (Atomic, Exodus)
 
 Other
-  - Sensitive Files
-  - Binder
-  - TaskKill
+- Sensitive Files
+- Binder
+- TaskKill
 
 FileOptions
-  - File (name, icon, description, version)
-  - Build Option (pkg, electron, msi, nsis, compressionType)
-  - Startup (Persistance, Registry, AppData, ProcessInjection)
+- File (name, icon, description, version)
+- Build Option (pkg, electron, msi, nsis, compressionType)
+- Startup (Persistance, Registry, AppData, ProcessInjection)
 ```
 
 ## <a id="changelog"></a>🛠・Change Logs
