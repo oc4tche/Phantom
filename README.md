@@ -45,7 +45,7 @@ Data
   - Tox
   - Whatsapp
   - Viber
-  - Discord
+  - Discord (Acc & Inj)
 
 - Games
   - Steam
@@ -53,10 +53,11 @@ Data
   - Rockstar
   - ElectronicArts
   - GOG.com
-  -
+  - Minecraft
 
 - Mails
   - ThunderBird
+  - Outlook
 
 - Vpn's
   - Proton
