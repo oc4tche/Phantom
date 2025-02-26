@@ -68,6 +68,12 @@ Data
   - OpenVPN
   - SurfShark
 
+- Ftp Client's
+  - Filezilla
+  - Putty
+  - WinSCP
+  - TotalCommander
+
 - Buissnesses Files
 
 Browsers
