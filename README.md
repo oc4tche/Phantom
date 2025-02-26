@@ -43,6 +43,7 @@ Data
   - Skype
   - Element
   - Tox
+  - Signal
   - Whatsapp
   - Viber
   - Discord (Acc & Inj)
