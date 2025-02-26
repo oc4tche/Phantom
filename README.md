@@ -62,6 +62,9 @@ Data
 - Mails
   - ThunderBird
   - Outlook
+  - Postbox
+  - Flock
+  - Mailbird
 
 - Vpn's
   - Proton
