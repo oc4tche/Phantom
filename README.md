@@ -54,6 +54,9 @@ Data
   - ElectronicArts
   - GOG.com
   - Minecraft
+  - Ubisoft
+  - Roblox
+  - Riot
 
 - Mails
   - ThunderBird
