@@ -49,14 +49,14 @@ Data
   - Discord (Acc & Inj)
 
 - Games
-  - Steam
+  - Steam (.vdf Acc)
   - Epic
   - Rockstar
   - ElectronicArts
   - GOG.com
   - Minecraft
   - Ubisoft
-  - Roblox
+  - RobloxStudio (Cookie)
   - Riot
 
 - Mails
