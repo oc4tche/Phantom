@@ -116,7 +116,7 @@ Computer Informations
 - Network
 
 Cryptocurrency
-- Desktop Wallets (binance, exodus, atomic, ...)
+- Desktop Wallets (binance, exodus, atomic, bitcoin, bytecoin, coinomi, dash, electrum, wasabi, electrum-ltc, multidog, bitcoin core, jax, electroncash, ether)
 - Crypto Clipper (btc, ltc, sol, xlm, xmr, doge, dash, neo)
 
 Injections
