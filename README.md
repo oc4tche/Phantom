@@ -113,7 +113,7 @@ Computer Informations
 - Clipboard
 - All Disks Tree
 - System
-- Network
+- Network (Country, City, Region, Zip Code, Ip, Isp)
 
 Cryptocurrency
 - Desktop Wallets (binance, exodus, atomic, bitcoin, bytecoin, coinomi, dash, electrum, wasabi, electrum-ltc, multidog, bitcoin core, jax, electroncash, ether)
