@@ -40,7 +40,6 @@ Paid
 Data
 - Messengers
   - Telegram
-  - Skype
   - Element
   - Tox
   - Signal
