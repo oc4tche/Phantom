@@ -69,6 +69,7 @@ Data
   - Proton
   - OpenVPN
   - SurfShark
+  - NordVPN
 
 - Ftp Client's
   - Filezilla
