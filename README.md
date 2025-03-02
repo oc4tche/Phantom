@@ -75,6 +75,7 @@ Data
   - Filezilla
   - Putty
   - WinSCP
+  - SmartFTP
   - TotalCommander
 
 - Buissnesses Files
