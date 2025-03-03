@@ -15,7 +15,7 @@ logs sending and building method, your private config will be protected by our a
 ## 🌐・Summary   
   
 - [✨・Features](#features) 
-- [📝・Changelog](#changelog)     
+- [📝・Change log](#changelog)     
 - [💼・Terms](#terms)
 - [👤・Authors](#authors)
 
