@@ -15,7 +15,7 @@ logs sending and building method, your private config will be protected by our a
 ## 🌐・Summary   
   
 - [✨・Features](#features) 
-- [📝・Change log](#changelog)     
+- [📝・Changelogs](#changelogs)     
 - [💼・Terms](#terms)
 - [👤・Authors](#authors)
 
@@ -137,7 +137,7 @@ FileOptions
 - Startup (Persistance, Registry, AppData, ProcessInjection)
 ```
 
-## <a id="changelog"></a>🛠・Change Logs
+## <a id="changelogs"></a>🛠・Change Logs
 
 ```
 [22.02.25 | v0.0.1] Created the Github repo and this README file, starting to make a Big TODO list; now just editing the README file
@@ -152,7 +152,7 @@ This script is for educational purposes only. Use it at your own risk. The devel
 ## <a id="authors"></a>👤・Authors
 
 - oc4tche (George Russvel)
-
+- Terek
 
 <p align="center">
   <a href=#top>Back to Top</a>
