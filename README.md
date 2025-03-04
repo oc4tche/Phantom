@@ -151,7 +151,7 @@ This script is for educational purposes only. Use it at your own risk. The devel
 
 ## <a id="authors"></a>👤・Authors
 
-- oc4tche (George Russvel)
+- oc4tche (George Rissler)
 - Terek
 
 <p align="center">
