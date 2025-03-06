@@ -143,6 +143,7 @@ FileOptions
 [22.02.25 | v0.0.1] Created the Github repo and this README file, starting to make a Big TODO list; now just editing the README file
 [01.03.25 | v0.0.2] Skype replaced with zoom or teams
 [04.03.25 | v0.0.3] Added Discord Acc Embed for Telegram & Discord
+[06.03.25 | v0.0.3] Almost finished with the discord bot and the stealer basic features, now working with the telegram bot and api protection
 ```
 
 ## <a id="terms"></a>💼・Terms
