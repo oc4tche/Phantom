@@ -144,6 +144,7 @@ FileOptions
 [01.03.25 | v0.0.2] Skype replaced with zoom or teams
 [04.03.25 | v0.0.3] Added Discord Acc Embed for Telegram & Discord
 [06.03.25 | v0.0.3] Almost finished with the discord bot and the stealer basic features, now working with the telegram bot and api protection
+[09.03.25 | v0.0.4] Almost finished with the telegram bot, working on the api protection
 ```
 
 ## <a id="terms"></a>💼・Terms
